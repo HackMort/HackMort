@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFeuZTK3uFwzg/profile-displaybackgroundimage-shrink_350_1400/0/1652302738513?e=1658361600&v=beta&t=wg6XqC9lV3S2hAGnK08pLPJxiQgx_cIlFve9l74pEmk)
 
-I'm a Web Developer based in El Salvador with 8 years of experience building Professional, Responsive, Creative, and User-Friendly Websites. My mission is to always satisfy the client's needs right on time! I´m an expert on tools such as HTML5, CSS3, CSS Frameworks like Bootstrap & Foundation, JavaScript/jQuery, WordPress CMS.
+I'm a Web Developer based in El Salvador with 9 years of experience building Professional, Responsive, Creative, and User-Friendly Websites. My mission is to always satisfy the client's needs right on time! I´m an expert on tools such as HTML5, CSS3, CSS Frameworks like Bootstrap & Foundation, JavaScript/jQuery, WordPress CMS.
 
-Skills: JS / HTML / CSS / PHP
+Skills: JS, JQUERY, REACTJS / HTML / CSS / PHP
 
 - 🌱 I’m currently learning TypeScript, ReactJS 
 - 💬 Ask me about Front-End Stuff 
